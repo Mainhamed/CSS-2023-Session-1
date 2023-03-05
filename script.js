@@ -9,7 +9,7 @@ const questions = [
     correct: "a",
   },
   {
-    question: "When was Coding Summer/Spring School founded?",
+    question: "When were Coding Summer/Spring School founded?",
     a: "2018",
     b: "2021",
     c: "2022",
